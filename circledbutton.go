@@ -1,4 +1,4 @@
-package circledbutton
+package newbutton
 
 import (
 	"image"
