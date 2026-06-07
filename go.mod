@@ -1,4 +1,4 @@
-module github.com/nbrahimi/CircledButton
+module github.com/nbrahimi/newbutton
 
 go 1.24.5
 
